@@ -21,3 +21,7 @@ The goal is to play sound and use an Apple library called AVFoundation. The most
 * Error handling in Swift.
 * Code refactoring.
 * Basic debugging.
+
+## Screenshots and Recordings 
+<img src="Documentation/1.png" width="380" height="700"> || <img src="Documentation/2.mp4" width="380" height="700">
+
