@@ -22,6 +22,6 @@ The goal is to play sound and use an Apple library called AVFoundation. The most
 * Code refactoring.
 * Basic debugging.
 
-## Screenshots and Recordings 
+## Screenshot 
 <img src="Documentation/1.png" width="380" height="700"> 
 
